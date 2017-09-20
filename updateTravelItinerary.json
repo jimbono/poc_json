@@ -1,0 +1,22 @@
+{
+  "updateTravelItinerary": {
+    "returnDate": "2016-04-28",
+    "departureDate": "2016-04-21",
+    "destinations": [
+      {
+        "state": "CA",
+        "country": "840"
+      }
+    ],
+    "primaryAccountNumbers": [
+      {
+        "cardAccountNumber": "4645191800301236"
+      },
+      {
+        "cardAccountNumber": "4645191800301237"
+      }
+    ],
+    "userId": "rajpande",
+    "travelItineraryId": "2312"
+  }
+}

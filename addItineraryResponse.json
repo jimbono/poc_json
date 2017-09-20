@@ -1,0 +1,27 @@
+{
+  "addTravelItineraryResponse": {
+    "travelItinerary": {
+      "partnerBid": "10074101",
+      "travelItineraryId": "12203",
+      "userId": "MohanKumar",
+      "primaryAccountNumbers": [
+        {
+          "cardAccountNumber": "4121254490035911"
+        }
+      ],
+      "destinations": [
+        {
+          "state": "CA",
+          "country": "840"
+        }
+      ],
+      "departureDate": "2017-09-25",
+      "returnDate": "2017-09-30",
+      "source": "Cardholder Self-Reported",
+      "lastUpdatedBy": "MohanKumar",
+      "lastUpdateTime": "2017-09-20T15:59:38Z"
+    },
+    "responseCode": "0",
+    "responseMessage": "Success Transaction"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "retrieveTravelItineraryResponse": {
+    "travelItineraries": [
+      {
+        "partnerBid": "10074101",
+        "travelItineraryId": "1505924037496",
+        "userId": "System",
+        "primaryAccountNumbers": [
+          {
+            "cardAccountNumber": "xxxxxxxxxxxx1234"
+          }
+        ],
+        "destinations": [
+          {
+            "country": "840",
+            "state": "CA"
+          }
+        ],
+        "departureDate": "2017-03-21",
+        "returnDate": "2017-05-21",
+        "source": "Cardholder Self-Reported",
+        "lastUpdatedBy": "System",
+        "lastUpdateTime": "2017-09-20"
+      },
+      {
+        "partnerBid": "10074101",
+        "travelItineraryId": "11505924037496",
+        "userId": "System",
+        "primaryAccountNumbers": [
+          {
+            "cardAccountNumber": "xxxxxxxxxxxx1234"
+          }
+        ],
+        "destinations": [
+          {
+            "country": "840",
+            "state": "CA"
+          }
+        ],
+        "departureDate": "2017-03-21",
+        "returnDate": "2017-05-21",
+        "source": "Cardholder Self-Reported",
+        "lastUpdatedBy": "System",
+        "lastUpdateTime": "2017-09-20"
+      }
+    ],
+    "responseCode": "0",
+    "responseMessage": "Success Transaction"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "addTravelItinerary": {
+    "returnDate": "2017-09-30",
+    "departureDate": "2017-09-25",
+    "destinations": [
+      {
+        "state": "CA",
+        "country": "840"
+      }
+    ],
+    "primaryAccountNumbers": [
+      {
+        "cardAccountNumber": "4121254490035911"
+      }
+    ],
+    "userId": "MohanKumar",
+    "partnerBid": "10074101"
+  }
+}
